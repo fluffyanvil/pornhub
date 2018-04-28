@@ -9,5 +9,6 @@
       "matches": ["https://www.pornhub.com/*", "https://pornhub.com/*"],
       "css": ["css/styles.css"]
     }
-  ]
+  ],
+  "incognito": "spanning"
 }
