@@ -6,7 +6,7 @@
     "Удаляет всплывающее окно с запросом авторизации через Вконтакте на Pornhub.com",
   "content_scripts": [
     {
-      "matches": ["https://www.pornhub.com/*", "https://pornhub.com/*"],
+      "matches": ["https://www.pornhub.com/*", "https://pornhub.com/*", "https://*.pornhub.com/*"],
       "css": ["css/styles.css"]
     }
   ],
